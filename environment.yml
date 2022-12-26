@@ -12,3 +12,5 @@ dependencies:
   - climlab
   - sympy
   - cartopy
+  - metpy
+  - ffmpeg
